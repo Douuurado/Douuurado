@@ -5,13 +5,11 @@
 - I have preferences to program games, softwares, IAs and useful tools
 
 ## 🛠️ Skills
-- Python
-- C#
-- Godot (2D)
+- Python, C#, Godot (2D)
+- Flask
+- Git, GitHub
 - Web scraping (BeautifulSoup, requests)
 - Tkinter (GUI)
-- Flask
-- Git and GitHub
 
 ## 🚀 Projects
 - [Pomodoro Timer](https://github.com/Douuurado/Timer)
