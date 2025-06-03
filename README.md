@@ -1,6 +1,8 @@
 # Hi, I'm Adryan 👋
 
-I'm a novice software developer passionate about creating software, games, and productivity tools.
+## 🧠 About me
+- I'm a autodidact Software Developer that studies computer Science
+- I have preferences to program games, softwares, IAs and useful tools
 
 ## 🛠️ Skills
 - Python
