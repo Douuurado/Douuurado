@@ -17,4 +17,4 @@
 ## 📫 Contact me
 - Fiverr: https://www.fiverr.com/douuurado
 - Email: douuuradodev@gmail.com
-- LinkedIn: https://www.linkedin.com/in/adryan-a-barbosa-322798369/
+- LinkedIn: https://www.linkedin.com/in/adryan-a-barbosa/
